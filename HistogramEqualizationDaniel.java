@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class HistogramEqualizationDaniel {
 
     public static void main(String[] args) {
